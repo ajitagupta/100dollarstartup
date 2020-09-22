@@ -46,4 +46,4 @@ Location is overrated - it is perfectly okay to practice independently of locati
 ## Lesson 5: The Customer
 Who are your people? As you explore different avenues it helps to think clearly about the people you intend to serve. They can either be grouped in terms of traditional demographics (age, location, gender, ethnicity, income) OR so-called new demographics: interests, passions, skills, beliefs and values.
 
-While toying with ideas, an efficient way of finding the best solution is to simply ask your prospects, e.g. through a survey tool: What is your biggest problem with X? What is the number one question you have about X? What can I do to help you with X? Next, you can level up the process by asking about specific product ideas through a ranking scale.
+While toying with ideas, an efficient way of finding the best solution is to simply ask your prospects, e.g. through a survey tool: What is your biggest problem with X? What is the number one question you have about X? What can I do to help you with X? Next, you can level up the process by asking about **specific** product ideas with the help of a ranking scale.
