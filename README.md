@@ -17,4 +17,25 @@ Wander around. You will spot opportunities everywhere! Some of them are:
 * An inefficiency in the marketplace
 * New technology (e.g mobile apps)
 * A changing space
-* A spin-off or side project (e.g. assistant, helper)
+* A spin-off or side project (e.g. assistant)
+
+The basic idea is to provide value of some kind by offering benefits, mainly to help people.
+
+## Lesson 2: Six Steps to Getting Stared Right Now
+You don't need huge amounts of capital or focussed training to get started. For microbusiness this is the usual process:
+* Decide on the product or service
+* Set up a basic website (e.g. through Wix, WordPress)
+* Develop an offer
+* Find a way to get paid (e.g. through PayPal)
+* Announce the offer
+
+Home in on what customers **really** want than what they need or less of what they dislike. Frequent wants are happiness, love, money, acceptance and free time. Frequent displeasures are stress, conflict, hassle, uncertainty, anxiety, debt.
+
+## Lesson 3: Passion plus good business sense creates an actual business
+Pick something specific and price yourself appropriately. Ideally, get paid to pursue a hobby or something indirectly related to it. For some, however, the hobby might act as a stress reliever which you do not wish to combine with your everyday work. Here's a checklist to be on the safer side of things:
+* Would you enjoy pursuing your hobby 20+ hours a week?
+* Do you enjoy teaching the hobby to others?
+* Do you like the ins and outs of your hobby?
+* Would you enjoy the hobby despite of administrative work?
+
+Secondly, you must also find a space in the marketplace before execution. Has anyone asked you for help? Are people willing to pay for your expertise? And thirdly, how does the competition look like - can you locate a niche for your service?
