@@ -21,7 +21,7 @@ Wander around. You will spot opportunities everywhere! Some of them are:
 
 The basic idea is to provide value of some kind by offering benefits, mainly to help people.
 
-## Lesson 2: Six Steps to Getting Stared Right Now
+## Lesson 2: Six Steps to Getting Started Right Now
 You don't need huge amounts of capital or focussed training to get started. For microbusiness this is the usual process:
 * Decide on the product or service
 * Set up a basic website (e.g. through Wix, WordPress)
@@ -44,4 +44,6 @@ Secondly, you must also find a space in the marketplace before execution. Has an
 Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, hub for digital publishing) follow this path and build significant businesses (six figures+).
 
 ## Lesson 5: The Customer
-Location is overrated - it is perfectly okay to practice 
+Who are your people? As you explore different avenues it helps to think clearly about the people you intend to serve. They can either be grouped in terms of traditional demographics (age, location, gender, ethnicity, income) OR so-called new demographics: interests, passions, skills, beliefs and values.
+
+While toying with ideas, an efficient way of finding the best solution is to simply ask your prospects, e.g. through a survey tool: What is your biggest problem with X? What is the number one question you have about X? What can I do to help you with X? Next, you can level up the process by asking about specific product ideas through a ranking scale.
