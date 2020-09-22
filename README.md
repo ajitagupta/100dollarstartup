@@ -1,7 +1,7 @@
 # The $100 Startup
-If you are planning on going solo with a running business but don't know how to go about it then look no further. This book has all the instructions you require to get started and have something of value up and running in no time.
+If you are planning on going solo with a business but don't know how to go about it then look no further. This book has all the instructions you require to get started and have something of value up and running.
 
-Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that working at a job may be the far riskier choice than working at a job. Hence, people pick to go out on their own to chart a safe course for themselves!
+Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that owning a business may be the far riskier choice than working at a job. Hence, people pick to strike out on their own!
 
 The author discusses results from case studies conducted over 100's of emails, skype calls, face-to-face discussions with 100+ entrepreneurs spread all over the world from the microbusiness lineage: self-employed ordinary people who started off without investment and employees, following their passion, creating profitable businesses (50k+ $ annual revenue) without any special (technical) skills. Examples:
 * mattress selling plus bicycle delivery service
@@ -41,7 +41,7 @@ Passion plus skill leads to finding a problem in the marketplace which is called
 Secondly, you must also find a space in the marketplace before execution. Has anyone asked you for help? Are people willing to pay for your expertise? And thirdly, how does the competition look like - can you locate a niche for your service?
 
 ## Lesson 4: There is more than one road to the road
-Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, hub for digital publishing) follow this path.
+Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, hub for digital publishing) follow this path and build significant businesses (six figures+).
 
-## Lesson 5: Become Your Own Publisher
+## Lesson 5: The Customer
 Location is overrated - it is perfectly okay to practice 
