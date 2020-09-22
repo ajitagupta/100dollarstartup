@@ -32,10 +32,16 @@ You don't need huge amounts of capital or focussed training to get started. For 
 Home in on what customers **really** want than what they need or less of what they dislike. Frequent wants are happiness, love, money, acceptance and free time. Frequent displeasures are stress, conflict, hassle, uncertainty, anxiety, debt.
 
 ## Lesson 3: Passion plus good business sense creates an actual business
-Pick something specific and price yourself appropriately. Ideally, get paid to pursue a hobby or something indirectly related to it. For some, however, the hobby might act as a stress reliever which you do not wish to combine with your everyday work. Here's a checklist to be on the safer side of things:
+Passion plus skill leads to finding a problem in the marketplace which is called opportunity. Pick something specific and price yourself appropriately. Ideally, get paid to pursue a hobby or something indirectly related to it. It's much easier to get paid for something that comes to you naturally. For some, however, the hobby might act as a stress reliever which they do not wish to combine with everyday work. Here's a checklist to be on the safer side of things:
 * Would you enjoy pursuing your hobby 20+ hours a week?
 * Do you enjoy teaching the hobby to others?
 * Do you like the ins and outs of your hobby?
 * Would you enjoy the hobby despite of administrative work?
 
 Secondly, you must also find a space in the marketplace before execution. Has anyone asked you for help? Are people willing to pay for your expertise? And thirdly, how does the competition look like - can you locate a niche for your service?
+
+## Lesson 4: There is more than one road to the road
+Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, hub for digital publishing) follow this path.
+
+## Lesson 5: Become Your Own Publisher
+Location is overrated - it is perfectly okay to practice 
