@@ -58,4 +58,4 @@ There's no harm in planning but getting started could take you forever. Instead,
 * Ask your potential target market for their opinion
 * Test on a subgroup in exchange for feedback
 
-Keep initial costs down. Get your first sale as soon as possible. Ascertain that there is a demand for your offering before creating it. Respond to initial results, e.g. through automation.
+Keep initial costs down. Get your first sale as soon as possible. Ascertain that there is a demand for your offering before creating it. Respond to initial results, e.g. through automation. To avoid overcomplication describe your business in a 140-character mission statement.
