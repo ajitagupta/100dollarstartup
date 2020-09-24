@@ -22,7 +22,7 @@ Wander around. You will spot opportunities everywhere! Some of them are:
 The basic idea is to provide value of some kind by offering benefits, mainly to help people.
 
 ## Lesson 2: Six Steps to Getting Started Right Now
-You don't need huge amounts of capital or focussed training to get started. For microbusiness this is the usual process:
+You don't need huge amounts of capital or training to get started. For microbusiness this is the usual process:
 * Decide on the product or service
 * Set up a basic website (e.g. through Wix, WordPress)
 * Develop an offer
@@ -52,10 +52,16 @@ While toying with ideas, an efficient way of finding the best solution is to sim
 There's no harm in planning but getting started could take you forever. Instead, start immediately. Here's a plan of action:
 * Care about the problem you are about to solve
 * Make sure the market is big enough
-* Focus on selling to people who know rather than persuading them that they have a problem
+* Focus on selling to people who know (invitation) rather than persuading them that they have a problem (pitch)c 
 * Focus on reducing pain or fulfilling a deep desire
 * Develop a significant (not simply *different*) solution
 * Ask your potential target market for their opinion
 * Test on a subgroup in exchange for feedback
 
 Keep initial costs down. Get your first sale as soon as possible. Ascertain that there is a demand for your offering before creating it. Respond to initial results, e.g. through automation. To avoid overcomplication describe your business in a 140-character mission statement.
+
+## Lesson 7: Create a Compelling Offer
+The difference between an ordinary offer and a great one is urgency. Make your customers act *now*! Provide them with the following:
+* A FAQ (proactive response to generic and specific objections a customer might have)
+* satisfaction guarantee
+* overdelivering
