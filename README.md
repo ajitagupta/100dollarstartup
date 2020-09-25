@@ -1,7 +1,7 @@
 # The $100 Startup
 If you are planning on going solo with a business but don't know how to go about it then look no further. This book has all the instructions you require to get started and have something of value up and running.
 
-Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that owning a business may be the far riskier choice than working at a job. Hence, people pick to strike out on their own!
+Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that working at a job may be the far riskier choice than owning a business. Hence, people pick to strike out on their own!
 
 The author discusses results from case studies conducted over 100's of emails, skype calls, face-to-face discussions with 100+ entrepreneurs spread all over the world from the microbusiness lineage: self-employed ordinary people who started off without investment and employees, following their passion, creating profitable businesses (50k+ $ annual revenue) without any special (technical) skills. Examples:
 * mattress selling plus bicycle delivery service
@@ -46,19 +46,16 @@ Location is overrated - it is perfectly okay to practice independently of locati
 ## Lesson 5: The Customer
 Who are your people? As you explore different avenues it helps to think clearly about the people you intend to serve. They can either be grouped in terms of traditional demographics (age, location, gender, ethnicity, income) OR so-called new demographics: interests, passions, skills, beliefs and values.
 
-While toying with ideas, an efficient way of finding the best solution is to simply ask your prospects, e.g. through a survey tool: What is your biggest problem with X? What is the number one question you have about X? What can I do to help you with X? Next, you can level up the process by asking about **specific** product ideas.
+While toying with ideas, an efficient way of finding the best solution is to simply ask your prospects, e.g. through a survey tool: What is your biggest problem with X? What is the number one question you have about X? What can I do to help you with X? Next, you can level up the process by asking about **specific** product ideas. Develop a significant (not simply *different*) solution. Ascertain that there is a demand for your offering before creating it.
 
-## Lesson 6: Seven Steps to Instant Market Testing
-There's no harm in planning but getting started could take you forever. Instead, start immediately. Here's a plan of action:
-* Care about the problem you are about to solve
+## Lesson 6: Four Steps to Instant Market Testing
+There's no harm in planning but getting started could take you forever. Instead, start immediately. Here is a plan of action:
 * Make sure the market is big enough
-* Focus on selling to people who know (invitation) rather than persuading them that they have a problem (pitch)c 
-* Focus on reducing pain or fulfilling a deep desire
-* Develop a significant (not simply *different*) solution
+* Focus on selling to people who know (invitation) rather than persuading them that they have a problem (pitch)
 * Ask your potential target market for their opinion
-* Test on a subgroup in exchange for feedback
+* Test on a subgroup first in exchange for feedback and confidentiality
 
-Keep initial costs down. Get your first sale as soon as possible. Ascertain that there is a demand for your offering before creating it. Respond to initial results, e.g. through automation. To avoid overcomplication describe your business in a 140-character mission statement.
+Keep initial costs down. Get your first sale as soon as possible. Respond to initial results. To avoid overcomplication describe your business in a 140-character mission statement.
 
 ## Lesson 7: Create a Compelling Offer
 The difference between an ordinary offer and a great one is urgency. Make your customers act *now*! Provide them with the following:
