@@ -15,7 +15,7 @@ The author discusses results from case studies conducted over 100's of emails, s
 ## Lesson 1: Where do Ideas Come From?
 Wander around. You will spot opportunities everywhere! Some of them are:
 * An inefficiency in the marketplace
-* New technology (e.g mobile apps)
+* New technology (e.g. mobile apps)
 * A changing space
 * A spin-off or side project (e.g. assistant)
 
