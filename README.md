@@ -23,11 +23,12 @@ The basic idea is to provide value of some kind by offering benefits, mainly to 
 
 ## Lesson 2: Six Steps to Getting Started Right Now
 You don't need huge amounts of capital or training to get started. For microbusiness this is the usual process:
-* Decide on the product or service
-* Set up a basic website (e.g. through Wix, WordPress)
-* Develop an offer
-* Find a way to get paid (e.g. through PayPal)
-* Announce the offer
+1. Decide on the product or service
+2. Set up a basic website (e.g. through Wix, WordPress)
+3. Develop an offer
+4. Find a way to get paid (e.g. through PayPal)
+5. Announce the offer
+6. Learn from steps 1-5. Repeat.
 
 Home in on what customers **really** want than what they need or less of what they dislike. Frequent wants are happiness, love, money, acceptance and free time. Frequent displeasures are stress, conflict, hassle, uncertainty, anxiety, debt.
 
