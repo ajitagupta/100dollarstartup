@@ -61,4 +61,4 @@ Keep initial costs down. Get your first sale as soon as possible. Respond to ini
 The difference between an ordinary offer and a great one is urgency. Make your customers act *now*! Provide them with the following:
 * A FAQ (proactive response to generic and specific objections a customer might have)
 * satisfaction guarantee
-* overdelivering
+* overdelivery (e.g. a surprise)
