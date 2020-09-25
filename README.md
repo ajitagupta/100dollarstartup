@@ -63,3 +63,16 @@ The difference between an ordinary offer and a great one is urgency. Make your c
 * A FAQ (proactive response to generic and specific objections a customer might have)
 * satisfaction guarantee
 * overdelivery (e.g. a surprise)
+
+## Lesson 8: Product Launch Checklist
+A checklist can serve as a template for a new business launch as well as an idea generator for existing businesses.
+* The big picture: Ensure there exists a clear value proposition. Build anticipation and excitement. Publish the time and date of launch in advance. Make the launch fun.
+* Next steps: Test setup and order process. Review order page and important communications (e.g. launch message, sales page, ads).
+* Money matters: Define success in numbers (net income, sales). Add a second payment option as backup. Create a payment plan for high-priced products.
+* The night before: Prune inbox. Draft a meaningful launch message. Prepare blog and social media posts.
+* The big morning: Soft launch at least 10 min early to make sure everything is working. Send out personal thankyou messages to first few buyers.
+* Promotion: Ask for referrals. Write to affiliates, journalists and media contacts. Post on social networks.
+* Follow-up (done in advance): general thankyou message, content for future communication.
+* Going above and beyond: postcards, calls, additional deliverables, unadvertised benefit
+* Second-to-last step: C-e-l-e-b-r-a-t-e
+* Very last step: start planning the next launch (how can you help more?)
