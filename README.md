@@ -41,7 +41,7 @@ Passion plus skill leads to finding a problem in the marketplace which is called
 Secondly, you must also find a space in the marketplace before execution. Has anyone asked you for help? Are people willing to pay for your expertise? And thirdly, how does the competition look like - can you locate a niche for your service?
 
 ## Lesson 4: There is more than one road to the road
-Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, hub for digital publishing) follow this path and build significant businesses (six figures+).
+Location is overrated - it is perfectly okay to practice independently of location. Because of the nature of work many business models such as music teacher, photographer, developer (e.g. website themes) and information publishing (e.g. a photography forum, ProBlogger) follow this path and build significant businesses (six figures+).
 
 ## Lesson 5: The Customer
 Who are your people? As you explore different avenues it helps to think clearly about the people you intend to serve. They can either be grouped in terms of traditional demographics (age, location, gender, ethnicity, income) OR so-called new demographics: interests, passions, skills, beliefs and values.
