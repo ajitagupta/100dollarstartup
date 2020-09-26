@@ -72,7 +72,16 @@ A checklist can serve as a template for a new business launch as well as an idea
 * The night before: Prune inbox. Draft a meaningful launch message. Prepare blog and social media posts.
 * The big morning: Soft launch at least 10 min early to make sure everything is working. Send out personal thankyou messages to first few buyers.
 * Promotion: Ask for referrals. Write to affiliates, journalists and media contacts. Post on social networks.
-* Follow-up (done in advance): general thankyou message, content for future communication.
+* Follow-up (done in advance): general thankyou message, content for future communication
 * Going above and beyond: postcards, calls, additional deliverables, unadvertised benefit
 * Second-to-last step: C-e-l-e-b-r-a-t-e
 * Very last step: start planning the next launch (how can you help more?)
+
+## Lesson 9: Hustling
+Maintain it a habit to connect with people 50% of your time as you create your business.
+* Daily: Build up a social media presence with regular posts. Monitor key metrics.
+* Weekly: Promote jointy with colleagues. Maintain communication with prospects.
+* At least monthly: Make sure customers are happy. Prepare for events, giveaways, contests or product launches.
+* From time to time: Perform business audit. Identify missing opportunities and turn them into significant projects.
+
+In the beginning focus on saying yes to requests unless there is a good reason to decline them. Become selective as the business grows.
