@@ -3,7 +3,7 @@ If you are planning on going solo with a business but don't know how to go about
 
 Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that working at a job may be the far riskier choice than owning a business. Hence, people pick to strike out on their own!
 
-The author discusses results from case studies conducted over 100's of emails, skype calls, face-to-face discussions with 100+ entrepreneurs spread all over the world from the microbusiness lineage: self-employed ordinary people who started off without investment and employees, following their passion, creating profitable businesses (50k+ $ annual revenue) without any special (technical) skills. Examples:
+The author discusses results from case studies conducted over 100's of emails, skype calls, face-to-face discussions with 100+ entrepreneurs spread all over the world from the microbusiness lineage: self-employed ordinary people who started off without outside investment and employees, following their passion, creating profitable businesses (50k+ $ annual revenue) without any special (technical) skills. Examples:
 * mattress selling plus bicycle delivery service
 * yarn store
 * photography instructor
@@ -85,3 +85,11 @@ Maintain it a habit to connect with people 50% of your time as you create your b
 * From time to time: Perform business audit. Identify missing opportunities and turn them into significant projects.
 
 In the beginning focus on saying yes to requests unless there is a good reason to decline them. Become selective as the business grows.
+
+## Lesson 10: The Money
+It's fantastic to have a beautiful website, popular blogs and many followers on social media but the ultimate goal of a business is to make money. Thus, it is important to channelize your efforts on making money early on. In short, follow these three principles:
+1. Price should be based on benefits, not costs for creating or manufacturing
+2. Offer a range of prices (ask about *which* rather than *if*)
+3. Get paid more than once for the same thing
+
+You have more money and access to help than you think. Be creative about finding what you need!
