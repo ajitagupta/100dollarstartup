@@ -12,7 +12,7 @@ The author discusses results from case studies conducted over 100's of emails, s
 * dog care
 * bookkeeping
 
-He also lays out a straightforward and comprehensive plan on how to get things done, one lesson at a time. 
+He also lays out the raw material in a straightforward and comprehensive plan, lesson after lesson. 
 
 ## Lesson 1: Where do Ideas Come From?
 Wander around. You will spot opportunities everywhere! Some of them are:
@@ -101,7 +101,7 @@ Moving on up by increasing income in an existing business is generally easier th
 1) Horizontal expansion: serving more customers with different related interests
 2) Vertical expansion refers to going deeper by addressing the same customers with different levels of need.
 
-## Lesson 12: Increasing Income
-Moving on up by increasing income in an existing business is generally easier than starting a new business. There are two ways to grow a business:
+## Lesson 12: Leverage
+A business can be strategically grown using franchising. You can split your audience into two grouops and either reach more people with the same message or different people with a new message.
 1) Horizontal expansion: serving more customers with different related interests
 2) Vertical expansion refers to going deeper by addressing the same customers with di
