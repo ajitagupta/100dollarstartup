@@ -93,3 +93,6 @@ It's fantastic to have a beautiful website, popular blogs and many followers on 
 3. Get paid more than once for the same thing
 
 You have more money and access to help than you think. Be creative about finding what you need!
+
+## Lesson 11: Increasing Income
+Moving on up by increasing income in an existing business is generally easier than starting a new business. There are two ways to grow a business: 1) Horizontal expansion: serving more customers with different related interests; 2) Vertical expansion refers to going deeper by addressing the same customers with different levels of need.
