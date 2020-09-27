@@ -98,3 +98,8 @@ You have more money and access to help than you think. Be creative about finding
 Moving on up by increasing income in an existing business is generally easier than starting a new business. There are two ways to grow a business:
 1) Horizontal expansion: serving more customers with different related interests
 2) Vertical expansion refers to going deeper by addressing the same customers with different levels of need.
+
+## Lesson 12: Increasing Income
+Moving on up by increasing income in an existing business is generally easier than starting a new business. There are two ways to grow a business:
+1) Horizontal expansion: serving more customers with different related interests
+2) Vertical expansion refers to going deeper by addressing the same customers with di
