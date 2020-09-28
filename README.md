@@ -1,4 +1,4 @@
-# The $100 Startup
+# Lessons from The $100 Startup
 If you are planning on going solo with a business but don't know how to go about it then look no further. This book has all the instructions you require to get started and have something of value up and running.
 
 Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that working at a job may be the far riskier choice than owning a business. Hence, people pick to strike out on their own!
@@ -102,6 +102,8 @@ Moving on up by increasing income in an existing business is generally easier th
 2) Vertical expansion refers to going deeper by addressing the same customers with different levels of need.
 
 ## Lesson 12: Leverage
-A business can be strategically grown using franchising. You can split your audience into two grouops and either reach more people with the same message or different people with a new message.
-1) Horizontal expansion: serving more customers with different related interests
-2) Vertical expansion refers to going deeper by addressing the same customers with di
+A business can be strategically grown using franchising. You can split your audience into two groups and either reach more people with the same message or different people with a new message. Here are different ways to franchise yourself:
+1) Virtual Assistants
+2) Partnership
+3) Outsourcing
+4) Affiliate Programs
