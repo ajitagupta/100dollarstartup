@@ -1,4 +1,4 @@
-# Lessons from The $100 Startup
+# 16 Lessons from The $100 Startup
 If you are planning on going solo with a business but don't know how to go about it then look no further. This book has all the instructions you require to get started and have something of value up and running.
 
 Small businesses aren't new but never before have so many possibilities come together in the right place at the right time: cheap and quick access to technology, instant market testing and easy money transfer using PayPal. The new reality is that working at a job may be the far riskier choice than owning a business. Hence, people pick to strike out on their own!
