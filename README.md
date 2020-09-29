@@ -107,3 +107,6 @@ A business can be strategically grown using franchising. You can split your audi
 2) Partnership
 3) Outsourcing
 4) Affiliate Programs
+
+## Lesson 13: Going Long
+A business that is scalable is both teachable as well as valuable, i.e. lies in the intersection area. If you at some point want to sell your business you have to make it independent of the owner by building teams.
